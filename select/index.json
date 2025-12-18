@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "好きだから。 (Re-Recording)",
+  "base_artist": "Yuika",
+  "createdAt": "2025-12-18T23:52:02.711209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好きだから。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/01_好きだから。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好きだから。",
+      "artist": "『ユイカ』 feat. れん",
+      "has_synced": false,
+      "path": "select/02_好きだから。_『ユイカ』_feat._れん.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好きだから。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/03_好きだから。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好きだから。",
+      "artist": "Yuika",
+      "has_synced": true,
+      "path": "select/04_好きだから。_Yuika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好きだから。(feat",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/05_好きだから。(feat_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "好きだから。",
+      "artist": "『ユイカ』 feat. れん",
+      "has_synced": true,
+      "path": "select/06_好きだから。_『ユイカ』_feat._れん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "好きだから。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/07_好きだから。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "好きだから。 (因为我喜欢你。)",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/08_好きだから。_(因为我喜欢你。)_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "好きだから。/ 『ユイカ』【MV】",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/09_好きだから。__『ユイカ』【MV】_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "好きだから。 (feat. れん)",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/10_好きだから。_(feat._れん)_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "好きだから。 - Piano ver.",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/11_好きだから。_-_Piano_ver._『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Suki Dakara  好きだから。 - 『ユイカ』",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/12_Suki_Dakara_好きだから。_-_『ユイカ』_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "好きだから。 (piano ver.)",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/13_好きだから。_(piano_ver.)_『ユイカ』.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きだから。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_好きだから。_『ユイカ』.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "好きだから。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_02_好きだから。_『ユイカ』.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "好きだから。 (Re-Recording)",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_03_好きだから。_(Re-Recording)_『ユイカ』.txt"
+    }
+  ]
+}
